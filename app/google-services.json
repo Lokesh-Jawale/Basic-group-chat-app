@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "796827088046",
+    "firebase_url": "https://loki-firebase-1.firebaseio.com",
+    "project_id": "loki-firebase-1",
+    "storage_bucket": "loki-firebase-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796827088046:android:b140c6488e7a1703dd293f",
+        "android_client_info": {
+          "package_name": "com.lokilabs.firebase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796827088046-4ipfsap90av7u633jd56l4vst3e0s859.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lokilabs.firebase1",
+            "certificate_hash": "3f5111aec5541f89f3b41e96d22f5df7d3812f4e"
+          }
+        },
+        {
+          "client_id": "796827088046-38l1cj2bvi974m8p733i1ds9575618a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD27elfVCipuoVeiYyYkbvufZ7zdz7HZ-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796827088046-38l1cj2bvi974m8p733i1ds9575618a2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
